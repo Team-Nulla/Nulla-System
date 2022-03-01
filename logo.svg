@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 288 288" style="background-color: transparent;" width="128px"
+     height="128px">
+    <path d="M 128 0 l 110.9 64 v 128 L 128 256 l -110.9 -64 v -128 Z"
+          fill="#7b7b7b"/>
+    <g fill="none" stroke="#ffffff" stroke-width="4" stroke-dasharray="4, 4">
+        <path d="M 128 128 v -128"/>
+        <path d="M 128 128 l 110.9 64"/>
+        <path d="M 128 128 l -110.9 64"/>
+    </g>
+    <path d="M 128 64 l 55.4 32 v 64 L 128 192 l -55.4 -32 v -64 Z"
+          fill="#4f4f4f" stroke="#ffffff" stroke-width="4"/>
+    <g fill="none" stroke="#ffffff" stroke-width="4" stroke-dasharray="4, 4">
+        <path d="M 128 128 v 128"/>
+        <path d="M 128 128 l 110.9 -64"/>
+        <path d="M 128 128 l -110.9 -64"/>
+    </g>
+    <path d="M 128 0 l 110.9 64 v 128 L 128 256 l -110.9 -64 v -128 Z"
+          fill="none" stroke="#ffffff" stroke-width="8"/>
+</svg>
